@@ -1,6 +1,7 @@
 # Tech-Festival Hackathon
 
 # Video 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/yh2oRtrIn-4/0.jpg)](http://www.youtube.com/watch?v=yh2oRtrIn-4)
 
 # Inspiration
 My teammate and I loved to build stuff.
